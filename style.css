@@ -1,0 +1,63 @@
+BODY {
+	background-image: url(sitelogo.PNG);
+	background-color: #000000;
+	background-repeat: repeat-x;
+}
+TD {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.content {
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+.menu {
+	background-image: url(sitemenu.PNG);
+	background-repeat: no-repeat;
+	padding-right: 10px;
+	padding-left: 25px;
+	color: #FFFFFF;
+	padding-top: 12px;
+	vertical-align: top;
+	font-weight: bold;
+}
+.footer {
+	font-size: small;
+	position: relative;
+	bottom: 0;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #D3D3D3;
+	text-decoration: underline;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+ul li {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.menu a:link {
+	text-decoration: none;
+}
+.menu a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.menu a:hover {
+	text-decoration: underline;
+}
+.logo {
+	padding-left: 70px;
+	color: #FFFFFF;
+	vertical-align: top;
+	padding-top: 40px;
+	padding-right: 0px;
+}
